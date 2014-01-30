@@ -19,33 +19,33 @@ http://www.chipbennett.net/2011/04/20/a-guide-to-reviewing-themes-for-the-wordpr
 ### Initial Review
 
 * [ ] Check the Theme and Author URL (All WordPress products need to be GPL Compatiable)
- [ ] Check the readme (licences, restrictions and features)
- [ ] Check the Licence and Licence URL
- [ ] Check if the theme name is suitable
- [ ] Check the Style.css tags
- [ ] Check the header.php
- [ ] Check the footer.php
- [ ] Check the functions.php
- [ ] Check assests(css, js, images and fonts) licence is compatable with gpl. Should create a list in the readme.
+* [ ] Check the readme (licences, restrictions and features)
+* [ ] Check the Licence and Licence URL
+* [ ] Check if the theme name is suitable
+* [ ] Check the Style.css tags
+* [ ] Check the header.php
+* [ ] Check the footer.php
+* [ ] Check the functions.php
+* [ ] Check assests(css, js, images and fonts) licence is compatable with gpl. Should create a list in the readme.
 
  http://make.wordpress.org/themes/guidelines/guidelines-license-theme-name-credit-links-up-sell-themes/
 
 ### Run Tests
 
- [ ] Run Theme Check
- [ ] Run Theme Mentor
- [ ] Check for php issues front end and backend
- [ ] Check for css or js errors or 404 assests
- [ ] Test Theme options
+* [ ] Run Theme Check
+* [ ] Run Theme Mentor
+* [ ] Check for php issues front end and backend
+* [ ] Check for css or js errors or 404 assests
+* [ ] Test Theme options
 
 ### Visual Tests
 
- [ ] Check diffiernt pages for issues
+* [ ] Check diffiernt pages for issues
 
 http://make.wordpress.org/themes/guidelines/guidelines-recommended/
 
 ### Check Code
- [ ] Check every file
+* [ ] Check every file
 
  http://make.wordpress.org/themes/guidelines/guidelines-theme-check/
  http://make.wordpress.org/themes/guidelines/guidelines-code-quality/
