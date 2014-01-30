@@ -18,7 +18,7 @@ http://www.chipbennett.net/2011/04/20/a-guide-to-reviewing-themes-for-the-wordpr
 
 ### Initial Review
 
- [ ] Check the Theme and Author URL (All WordPress products need to be GPL Compatiable)
+* [ ] Check the Theme and Author URL (All WordPress products need to be GPL Compatiable)
  [ ] Check the readme (licences, restrictions and features)
  [ ] Check the Licence and Licence URL
  [ ] Check if the theme name is suitable
