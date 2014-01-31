@@ -1,8 +1,8 @@
 # Theme Review Checklist
 
 ## Links
-http://make.wordpress.org/themes/guidelines/
-http://www.chipbennett.net/2011/04/20/a-guide-to-reviewing-themes-for-the-wordpress-theme-repository/
+* http://make.wordpress.org/themes/guidelines/
+* http://www.chipbennett.net/2011/04/20/a-guide-to-reviewing-themes-for-the-wordpress-theme-repository/
 
 ## Set up test site
 
