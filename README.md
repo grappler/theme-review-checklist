@@ -9,7 +9,7 @@ http://www.chipbennett.net/2011/04/20/a-guide-to-reviewing-themes-for-the-wordpr
 1. Import the [Theme Unit Test data](http://codex.wordpress.org/Theme_Unit_Test).
 2. Add this to wp-config.php
 `define( 'WP_DEBUG', true );`
-3 Install
+3. Install
 [Theme Check](http://wordpress.org/plugins/theme-check/)
 [Developer](http://wordpress.org/plugins/developer/)
 [Theme Mentor](http://wordpress.org/plugins/theme-mentor/)
